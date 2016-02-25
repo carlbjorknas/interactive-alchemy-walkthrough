@@ -55,6 +55,11 @@ namespace InteractiveAlchemyWalkthrough.Controllers
                 BuildGermLine(elementSetting, elementSettings, elements);
             }
 
+            elements.Values
+                .Where(e => e.EndOfLine)
+                .ToList()
+                .ForEach(e => e.SetDescendentsRecursively(new HashSet<int>()));
+
             return elements;
         }
 

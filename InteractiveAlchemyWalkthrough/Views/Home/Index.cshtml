@@ -8,7 +8,7 @@
 
 <div class="jumbotron">
     <h2>The Interactive Alchemy Walkthrough</h2>
-    Click on an element to see the path how to reach it.
+    Click on an element to see how to reach it and what it can become.
     <br />
     The source of the recipes comes from <a href="http://alchemycheat.com/zeds-alchemy/">http://alchemycheat.com/zeds-alchemy/</a>
 </div>
@@ -27,7 +27,7 @@
             <div class="elements">
                 @foreach (var element in group.OrderBy(e => e.EndOfLine))
                 {
-                    <div id="@element.Id" class="element @(element.EndOfLine ? "end-of-line": "")" data-ancestors="[@(string.Join(",", element.AncestorIds))]">
+                    <div id="@element.Id" class="element @(element.EndOfLine ? "end-of-line": "")" data-ancestors="[@(string.Join(",", element.AncestorIds))]" data-descendents="[@(string.Join(",", element.Descendents))]">
                         @foreach (var parentPair in element.PossibleParents)
                         {
                             @(string.Format("{0} + {1}", parentPair.FirstParent.Name, parentPair.SecondParent.Name))

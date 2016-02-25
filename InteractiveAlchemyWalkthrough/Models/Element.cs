@@ -14,12 +14,15 @@ namespace InteractiveAlchemyWalkthrough.Models
         {
             Name = name;
             PossibleParents = new List<ParentPair>();
+            Descendents = new HashSet<int>();
             EndOfLine = true;
         }
 
         public int Id { get; set; }
         public string Name { get; set; }
         public bool EndOfLine { get; set; }
+
+        public HashSet<int> Descendents { get; private set; }
 
         public int Level
         {
@@ -60,6 +63,20 @@ namespace InteractiveAlchemyWalkthrough.Models
                 }
 
                 return _ancestorIds;
+            }
+        }
+
+        public void SetDescendentsRecursively(HashSet<int> descendents)
+        {
+            Descendents.UnionWith(descendents);
+
+            var parentsDescendents = new HashSet<int>(Descendents);
+            parentsDescendents.Add(Id);
+
+            foreach (var parentPair in PossibleParents)
+            {
+                parentPair.FirstParent.SetDescendentsRecursively(parentsDescendents);
+                parentPair.SecondParent.SetDescendentsRecursively(parentsDescendents);
             }
         }
     }
