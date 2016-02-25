@@ -26,11 +26,12 @@ textarea {
 .level {
     border: 8px solid pink;
     padding: 4px;
-    margin: 0px 0px 10px 0px
+    margin: 0px 0px 10px 0px;
+    border-radius: 10px;
 }
 
 .elements{
-    border: 3px solid pink;
+    /*border: 3px solid pink;*/
     padding: 4px;
 }
 
