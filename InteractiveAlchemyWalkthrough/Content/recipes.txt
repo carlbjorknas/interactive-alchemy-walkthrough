@@ -1,0 +1,1170 @@
+﻿Air
+
+Default
+Earth
+
+Default
+Fire
+
+Default
+Water
+
+Default
+1up
+
+Life + Mushroom
+Airplane
+
+Metal + Bird
+Albert Einstine
+
+Scientist + Energy
+Alcohol
+
+Fire + Water
+Alcoholic
+
+Man + Alcohol
+Algae
+
+Life + Water
+Alien
+
+Star + Life
+Aluminium
+
+Airplane + Metal
+Ambulance
+
+Hospital + Car
+Aquarium
+
+Glass + Fish
+Arable
+
+Earth + Tool
+Arms
+
+Metal + Tool
+Ash
+
+Fire + Tree
+Ashtray
+
+Ash + Glass
+Assassin
+
+Man + Poisoned Weapons
+Austrialia
+
+Kangaroo + Country
+Avian Flu
+
+Bird + Flu
+Baby
+
+Man + Sex OR Sex + Woman
+Bacon
+
+Fire + Pig
+Bacteria
+
+Life + Swamp
+Bar
+
+Brick House + Beer
+Barbeque
+
+Fire + Meat
+Bat
+
+Bird + Vampire
+Batman
+
+Bat + Man
+Beach
+
+Water + Sand
+Bear
+
+Beast + Forest
+Beast
+
+Earth + Lizard
+Beaver
+
+Dam + Beast
+Bee
+
+Flower + Beetle
+Beer
+
+Alcohol + Wheat
+Beetle
+
+Earth + Worm
+Beetroot
+
+Sugar + Seed
+Belarus
+
+Tractor + Country
+Berry
+
+Grass + Fruit
+Bicycle
+
+Wheel + Wheel
+Bird
+
+Air + Egg
+Bitumen
+
+Kerogen + Pressure
+Blood
+
+Beast + Hunter
+Boat
+
+Wood + Water
+Boiler
+
+Metal + Steam
+Book
+
+Feather + Paper
+Borscht
+
+Beetroot + Fire
+Bow
+
+Robin Hood + Arms
+Bread
+
+Dough + Fire
+Brick
+
+Clay + Fire
+Brick House
+
+Brick + Concrete
+Butterfly
+
+Air + Worm
+C-PO
+
+Gold + Robot
+Cactus
+
+Desert + Tree
+Camel
+
+Desert + Beast
+Cancer
+
+Man + Tobacco
+Car
+
+Cart + Combustion Engine
+Caramel
+
+Sugar + Fire
+Carbon Dioxide
+
+Oxygen + Man
+Carmine
+
+Cochineal + Fire
+Cart
+
+Wheel + Wood
+Cat
+
+Mouse + Hunter
+Catdog
+
+Cat + Dog
+Caviar
+
+Fish + Fish OR Fish + Egg
+Cement
+
+Clay + Limestone
+Cemetery
+
+Grave + Grave
+Ceramics
+
+Clay + Man
+Champagne
+
+Soda Water + Wine
+Chariot
+
+Warrior + Cart
+Cheese
+
+Quark + Fire
+Chicken
+
+Egg + Life
+China
+
+Dragon + Country
+Chocolate
+
+Cocoa + Sugar
+Christmas Tree
+
+Tree + Lightbulb
+Cigarettes
+
+Paper + Tobacco
+City
+
+Skyscraper + Skyscraper
+Clay
+
+Sand + Swamp
+Clock
+
+Hourglass + Electricity
+Cloth
+
+Tool + Wool
+Clothing
+
+Cloth + Man
+Cloud
+
+Air + Steam
+Coal
+
+Fire + Tree
+Coca-Cola
+
+Soda Water + Carmine
+Cochineal
+
+Cactus + Beetle
+Cocoa
+
+Seed + Mexico
+Coffin
+
+Corpse + Wood
+Coin
+
+Silver + Pressure OR Mario + Brick
+Combustion Engine
+
+Steam Engine + Gasoline
+Concrete
+
+Cement + Water
+Continent
+
+Country + Country
+Copper
+
+Silver + Gold
+Corpse
+
+Fire + Man
+Country
+
+City + City
+Crop Circles
+
+UFO + Arable
+Dam
+
+Water + Brick
+Desert
+
+Sand + Sand
+Diamond
+
+Uncut Diamond + Tool
+Diet
+
+Man + Yogurt
+Dilemma
+
+Egg + Chicken
+Dinosaur
+
+Earth + Egg
+Doctor
+
+Hospital + Scientist
+Dog
+
+Wolf + Man
+Dough
+
+Flour + Water
+Dr Zoidberg
+
+Doctor + Lobster
+Dragon
+
+Dinosaur + Fire OR Pterodactyl + Fire
+Dust
+
+Air + Earth
+E-Book
+
+Microchip + Book
+Ectoplasm
+
+Ghost + Energy
+Egg
+
+Life + Stone
+Egypt
+
+Cat + Country OR Mummy + Country
+Electric Eel
+
+Snake + Electricity
+Electric Ray
+
+Fish + Electricity
+Electricity
+
+Energy + Metal
+Elephant
+
+Whale + Earth
+Energy
+
+Air + Fire
+ENT
+
+Tree + Life
+Explosion
+
+Gasoline + Fire
+Fabrege Egg
+
+Egg + Diamond
+Farmer
+
+Man + Seed
+Fat
+
+Man + Pig
+Feather
+
+Bird + Hunter
+Fern
+
+Moss + Swamp
+Finland
+
+Sauna + Country
+Fire Elemental
+
+Fire + Life
+Firearms
+
+Arms + Gunpowder
+Firefighter
+
+Hero + Fire
+Firefly
+
+Light + Beetle
+Fish
+
+Bacteria + Plankton
+Fisherman
+
+Hunter + Fish
+Flour
+
+Stone + Wheat
+Flower
+
+Water + Seed
+Flu
+
+Air + Bacteria
+Fondue
+
+Cheese + Fire
+Forest
+
+Grove + Grove
+Fossil
+
+Butterfly + Earth
+France
+
+Champagne + Country
+Frankenstein
+
+Corpse + Electricity
+Fried Chicken
+
+Chicken + Fire
+Frog
+
+Lizard + Swamp
+Fruit
+
+Tree + Farmer OR Tree + Flower
+Fugu
+
+Fish + Poison
+Gasoline
+
+Petroleum + Pressure
+Genie
+
+Lamp + Ghost
+Germany
+
+VW Beetle + Country
+Geyser
+
+Steam + Earth
+Ghost
+
+Ash + Life
+Ghostbusters
+
+Hunter + Ghost
+Glass
+
+Fire + Sand
+Gold
+
+Philosopher’s Stone + Silver
+Golem
+
+Clay + Life
+Grape
+
+Earth + Wood
+Grass
+
+Earth + Moss
+Grave
+
+Earth + Corpse
+Grove
+
+Tree + Tree
+Gunpowder
+
+Dust + Fire
+Hen Coop
+
+Chicken + Hut
+Hero
+
+Dragon + Warrior
+Honey
+
+Bee + Tree
+Hospital
+
+Brick House + Sick
+Hot Chocolate
+
+Chocolate + Fire
+Hourglass
+
+Glass + Sand
+House MD
+
+Man + Vicodin
+Hunter
+
+Arms + Man
+Hut
+
+Man + Stone
+Hydrogen
+
+Electricity + Water
+Ice
+
+Water + Glass
+Iceland
+
+Volcano + Country
+Idea
+
+Man + Lightbulb
+India
+
+Kama Sutra + Country
+Iodine
+
+Algae + Fire
+iPhone
+
+Phone + Fruit
+Island
+
+Sea + Volcano
+Italy
+
+Venice + Country
+Japan
+
+Sushi + Country
+Jedi
+
+Warrior + Lightsaber
+Juice
+
+Berry + Pressure
+Kama Sutra
+
+Book + Sex
+Kangaroo
+
+Frog + 1up
+Kerogen
+
+Fossil + Pressure
+Kilt
+
+Scotland + Clothing
+Knife
+
+Meat + Tool
+Lamp
+
+Glass + Fire
+Lance Armstrong
+
+Cancer + Bicycle
+Lava
+
+Earth + Fire
+Lava Golem
+
+Lava + Life
+Lava Lamp
+
+Lava + Lamp
+Lawn Mower
+
+Scissors + Combustion Engine
+Leech
+
+Blood + Worm
+Library
+
+Book + Book
+Lichen
+
+Mushroom + Algae
+Life
+
+Energy + Swamp
+Light
+
+Electricity + Lightbulb
+Lightbulb
+
+Electricity + Glass
+Lighthouse
+
+Skyscraper + Light
+Lightning Rod
+
+Thunderstorm + Metal
+Lightsaber
+
+Arms + Light
+Lime
+
+Fire + Limestone
+Limestone
+
+Shells + Stone
+Livestock
+
+Beast + Man
+Lizard
+
+Snake + Worm
+Lobster
+
+Scorpion + Water
+Locomotive
+
+Cart + Steam Engine
+Man
+
+Golem + Life OR Beast + Life
+Manure
+
+Grass + Livestock
+Mario
+
+1up + Man
+McDonald’s
+
+Coca-Cola + Sandwich
+Meat
+
+Beast + Hunter
+Mentos
+
+Coca-Cola + Geyser
+Mermaid
+
+Woman + Fish
+Metal
+
+Fire + Stone
+Metal Golem
+
+Metal + Life
+Mexico
+
+Tequila + Country
+Microchip
+
+Transistor + Transistor
+Milk
+
+Livestock + Man OR Livestock + Grass
+Mirror
+
+Aluminium + Glass
+Mite
+
+Life + Dust
+Mold
+
+Mushroom + Mud
+Molotov Cocktail
+
+Fire + Alcohol
+Money
+
+Coin + Paper
+Moon
+
+Cheese + Sky
+Moss
+
+Swamp + Algae
+Motorboat
+
+Boat + Combustion Engine
+Morotcycle
+
+Bicycle + Combustion Engine
+Mouse
+
+Cheese + Beast
+Mud
+
+Dust + Water
+Mummy
+
+Paper + Zombie
+Museum
+
+Brick House + Fossil
+Mushroom
+
+Earth + Algae
+Music
+
+Sound + Idea
+Obesity
+
+Man + McDonald’s
+Old Man
+
+Man + Time
+Omelette
+
+Egg + Fire
+Oxygen
+
+Electricity + Water
+Oxyhydrogen
+
+Oxygen + Hydrogen
+Ozone
+
+Oxygen + Electricity
+Panda
+
+Tree + Beast
+Paper
+
+Reed + Tool
+Pearl
+
+Sand + Shells
+Peat
+
+Swamp + Tree
+Penguin
+
+Bird + Ice
+Penicillin
+
+Mold + Scientist
+Perfume
+
+Alcohol + Flower
+Petri Dish
+
+Glass + Bacteria
+Petroleum
+
+Bitumen + Pressure
+Philosopher’s Stone
+
+Philosophy + Stone
+Philosophy
+
+Dilemma + Scientist
+Phoenix
+
+Fire + Bird
+Phone
+
+Wire + Sound
+Pie
+
+Fruit + Dough
+Pig
+
+Livestock + Mud
+Piggy Bank
+
+Ceramics + Coin
+Pillow
+
+Feather + Cloth
+Pinocchio
+
+Wood + Life
+Pizza
+
+Cheese + Dough
+Planet
+
+Continent + Continent
+Plankton
+
+Bacteria + Water
+Plesiosauria
+
+Water + Dinosaur
+Poison
+
+Mushroom + Tool
+Poisoned Weapons
+
+Arms + Poison
+Pressure
+
+Earth + Earth
+Prisoner
+
+Assassin + Time
+Pterodactyl
+
+Air + Dinosaur
+Quark
+
+Soured Milk + Fire
+Quetzalcoatl
+
+Snake + Bird
+R-D
+
+Star Wars + Robot
+Rain
+
+Water + Cloud
+Rainbow
+
+Light + Storm
+Reed
+
+Grass + Swamp
+Robin Hood
+
+Forest + Hero
+Robot
+
+Metal Golem + Electricity
+Romania
+
+Transylvania + Country
+Ruby
+
+Aluminium + Oxygen
+Russia
+
+Vodka + Country
+Rust
+
+Water + Metal
+Sailboat
+
+Boat + Cloth
+Sailing Ship
+
+Cloth + Wooden Ship
+Sailor
+
+Man + Boat
+Salamander
+
+Lizard + Fire
+Salo
+
+Man + Pig
+Salt
+
+Sea + Fire
+Saltpeter
+
+Limestone + Manure
+Sand
+
+Water + Stone OR Air + Stone
+Sandstorm
+
+Sand + Storm
+Sandwich
+
+Meat + Bread
+Santa Clause
+
+Old Man + Christmas Tree
+Saudi Arabia
+
+Petroleum + Country
+Sauna
+
+Steam + Hut
+Scarab
+
+Beetle + Manure
+Scientist
+
+Library + Man
+Scissors
+
+Knife + Knife
+Scorpion
+
+Beetle + Sand
+Scotch Whiskey
+
+Alcohol + Peat
+Scotland
+
+Scotch Whiskey + Country
+Sea
+
+Water + Water
+Seed
+
+Life + Sand
+Sex
+
+Man + Woman
+Sex and the City
+
+Sex + City
+Shells
+
+Plankton + Stone
+Sick
+
+Man + Flu
+Silicon
+
+Pressure + Sand
+Silk
+
+China + Cloth
+Silver
+
+Moon + Metal
+Sith
+
+Jedi + Assassin
+Sky
+
+Air + Cloud
+Skyscraper
+
+Brick House + Glass
+Smoke
+
+Tobacco + Fire OR Cigarettes + Fire
+Snail
+
+Shells + Worm
+Snake
+
+Swamp + Worm OR Sand + Worm
+Sniper
+
+Assassin + Firearms
+Soap
+
+Ash + Fat
+Soda Water
+
+Carbon Dioxide + Water
+Soldier
+
+Firearms + Man
+Sound
+
+Metal + Wind
+Soured Milk
+
+Milk + Yogurt
+Spinning Wheel
+
+Wheel + Wool
+Stake
+
+Wood + Knife
+Star
+
+Sun + Scientist
+Star Wars
+
+Jedi + Sith
+Statue
+
+Stone + Tool
+Statue of Liberty
+
+USA + Statue
+Steam
+
+Air + Water
+Steam Engine
+
+Boiler + Coal
+Steamer
+
+Steam Engine + Wooden Ship
+Stone
+
+Air + Lava
+Storm
+
+Air + Energy
+Sugar
+
+Lime + Reed
+Sulfur
+
+Bacteria + Swamp
+Sun
+
+Sky + Chariot
+Sunflower
+
+Sun + Flower
+Sushi
+
+Fish + Algae
+Swamp
+
+Earth + Water
+Sweater
+
+Yarn + Tool
+Swine Flu
+
+Pig + Flu
+Swiss Army Knife
+
+Knife + Tool
+Switzerland
+
+Fondue + Country
+Team
+
+Beast + Cart
+Tequila
+
+Alcohol + Worm
+Beatles
+
+Beetle + Beetle
+Thread
+
+Spinning Wheel + Yarn
+Thunderbird
+
+Bird + Storm
+Thunderstorm
+
+Storm + Electricity
+Time
+
+Life + Hourglass
+Toast
+
+Fire + Bread
+Tobacco
+
+Fire + Grass
+Tool
+
+Man + Metal
+Totoro
+
+Forest + Ghost
+Tractor
+
+Lawn Mower + Arable
+Transformers
+
+Car + Life
+Transistor
+
+Silicon + Electricity
+Transylvania
+
+Vampire + Country
+Tree
+
+Earth + Seed
+Turtle
+
+Sand + Egg
+Twilight Saga
+
+Vampire + Werewolf
+Typhoon
+
+Storm + Water
+UFO
+
+Alien + Airplane
+Ukraine
+
+Salo + Country
+Uncut Diamond
+
+Coal + Pressure
+Undead
+
+Zombie + Corpse
+United Kingdom
+
+Beatles + Country
+USA
+
+Coca-Cola + Country
+Vampire
+
+Blood + Man
+Venice
+
+City + Water
+Venus
+
+Woman + Planet
+Vicodin
+
+Sick + Doctor
+Vinegar
+
+Alcohol + Oxygen
+Vodka
+
+Alcohol + Water
+Volcano
+
+Lava + Pressure
+Vulture
+
+Corpse + Bird
+VW Beetle
+
+Car + Beetle
+Warrior
+
+Arms + Hunter
+Weevil
+
+Flour + Beetle
+Werewolf
+
+Beast + Vampire
+Whale
+
+Beast + Water
+Wheat
+
+Arable + Seed
+Wheel
+
+Tool + Wood
+Whey
+
+Soured Milk + Fire
+Wind
+
+Air + Air
+Wine
+
+Grape + Alcohol
+Wire
+
+Thread + Copper
+Wolf
+
+Moon + Beast
+Woman
+
+Milk + Man
+Wood
+
+Tool + Tree
+Wooden Ship
+
+Boat + Wood
+Wool
+
+Beast + Hunter
+Worm
+
+Earth + Plankton
+Yarn
+
+Spinning Wheel + Wool
+Yoda
+
+Jedi + Swamp
+Yogurt
+
+Bacteria + Milk
+Yoshi
+
+1up + Egg
+Zombie
+
+Fossil + Life
+Zoo
+
+Beast + Museum

@@ -1,0 +1,37 @@
+﻿@using InteractiveAlchemyWalkthrough.Models;
+
+@model IOrderedEnumerable<IGrouping<int, Element>>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>The Interactive Alchemy Walkthrough</h1>
+</div>
+<b>Click on an element to see the path to reach it.</b><br />
+<div>
+    @foreach (var group in Model)
+    {
+        <div class="level">
+            <span>Level @group.Key</span>
+
+            <div class="elements">
+                @foreach (var element in group)
+                {
+                    <div id="@element.Id" class="element" data-ancestors="[@(string.Join(",", element.AncestorIds))]">
+                        @foreach (var parentPair in element.PossibleParents)
+                        {
+                            @(string.Format("{0} + {1}", parentPair.FirstParent.Name, parentPair.SecondParent.Name))
+                            <br />
+                        }
+                        <b>@element.Name</b>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+</div>
+@section scripts {
+    @Scripts.Render("~/Scripts/tiaw.js")
+ }
