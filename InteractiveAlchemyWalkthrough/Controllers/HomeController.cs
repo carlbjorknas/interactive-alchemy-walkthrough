@@ -70,7 +70,11 @@ namespace InteractiveAlchemyWalkthrough.Controllers
             foreach(var parentPair in elementSetting.PossibleParentPairs)
             {
                 var firstParent = BuildGermLine(elementSettings[parentPair.Item1], elementSettings, elements);
+                firstParent.EndOfLine = false;
+
                 var secondParent = BuildGermLine(elementSettings[parentPair.Item2], elementSettings, elements);
+                secondParent.EndOfLine = false;
+
                 element.PossibleParents.Add(new ParentPair(firstParent, secondParent));
             }
 

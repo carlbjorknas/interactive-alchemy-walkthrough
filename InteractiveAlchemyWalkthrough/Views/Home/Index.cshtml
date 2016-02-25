@@ -7,9 +7,17 @@
 }
 
 <div class="jumbotron">
-    <h1>The Interactive Alchemy Walkthrough</h1>
+    <h2>The Interactive Alchemy Walkthrough</h2>
+    Click on an element to see the path how to reach it.
+    <br />
+    The source of the recipes comes from <a href="http://alchemycheat.com/zeds-alchemy/">http://alchemycheat.com/zeds-alchemy/</a>
 </div>
-<b>Click on an element to see the path to reach it.</b><br />
+
+<div class="element end-of-line">
+    Elements with this kind of border cannot be used in a combination.
+</div>
+<br />
+<br />
 <div>
     @foreach (var group in Model)
     {
@@ -17,9 +25,9 @@
             <span>Level @group.Key</span>
 
             <div class="elements">
-                @foreach (var element in group)
+                @foreach (var element in group.OrderBy(e => e.EndOfLine))
                 {
-                    <div id="@element.Id" class="element" data-ancestors="[@(string.Join(",", element.AncestorIds))]">
+                    <div id="@element.Id" class="element @(element.EndOfLine ? "end-of-line": "")" data-ancestors="[@(string.Join(",", element.AncestorIds))]">
                         @foreach (var parentPair in element.PossibleParents)
                         {
                             @(string.Format("{0} + {1}", parentPair.FirstParent.Name, parentPair.SecondParent.Name))

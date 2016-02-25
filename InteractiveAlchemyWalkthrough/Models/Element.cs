@@ -14,10 +14,12 @@ namespace InteractiveAlchemyWalkthrough.Models
         {
             Name = name;
             PossibleParents = new List<ParentPair>();
+            EndOfLine = true;
         }
 
         public int Id { get; set; }
         public string Name { get; set; }
+        public bool EndOfLine { get; set; }
 
         public int Level
         {

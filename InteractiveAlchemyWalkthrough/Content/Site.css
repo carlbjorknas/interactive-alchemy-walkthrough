@@ -38,6 +38,13 @@ textarea {
     display:inline-block;
     border: 2px solid pink;
     padding: 4px;
+    margin: 2px 0px 2px 0px;
+    border-radius: 10px;
+}
+
+.element.end-of-line {
+    border-color:lightgray;
+    border-style:dashed;
 }
 
 .selected{
