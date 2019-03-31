@@ -2,3 +2,5 @@
 InteractiveAlchemyWalkthrough/bin/
 InteractiveAlchemyWalkthrough/obj/
 packages/
+*.user
+upgradelog.htm
